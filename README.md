@@ -2,6 +2,9 @@
 
 A multi-page Streamlit web application providing engineering models for fluid mechanics, thermal conduction/cooling, and core rock data analysis.
 
+## Live Application
+🔗 **[Launch Engineering Suite Web App](https://engineering-suite-tcnettey4074424.streamlit.app/)**
+
 ## Features
 - **Module A: Pipe Flow Analyser**: Computes velocity, Reynolds number, Swamee-Jain friction factor, and Darcy-Weisbach pressure drop with interactive plotting.
 - **Module B: Heat Transfer Calculator**: Computes flat-wall Fourier heat loss and interactive Newton's Law of Cooling dynamics over time.
